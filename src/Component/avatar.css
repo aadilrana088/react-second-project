@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+.card-style {display: inline-block!important;margin: 15px;}
+.button-css {display: block;text-align: center;margin: 25px 0 50px;}
+.card-title {font-family: 'Odibee Sans', cursive!important;font-size: 2rem;letter-spacing: 2px;}
+.card-text:last-child {font-family: 'Odibee Sans', cursive!important;letter-spacing: 1px;}
